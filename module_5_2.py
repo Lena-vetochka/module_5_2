@@ -5,7 +5,7 @@ class House:
 
 
     def __len__(self):
-        return self.number_of_floors)
+        return self.number_of_floors
 
 
     def __str__(self):
