@@ -14,8 +14,8 @@ class House:
 
 h1 = House('ЖК Эльбрус', 10)
 h2 = House('ЖК Акация', 20)
-print(h1.__str__())
-print(h2.__str__())
-print(h1.__len__())
-print(h2.__len__())
+print(str(h1))
+print(str(h2))
+print(len(h1))
+print(len(h2))
 
